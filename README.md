@@ -13,10 +13,9 @@ This project is a simple food menu webpage developed using HTML. It displays dif
 - HTML5
 
  Project Structure
-text
 food-menu-website/
-├── food_menue.html
-└── images/
+-food_menue.html
+-images/
 
 
 How to Run
